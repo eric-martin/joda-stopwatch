@@ -3,7 +3,7 @@
 	
 	<groupId>com.triptheone</groupId>
 	<artifactId>joda-stopwatch</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	
 	<name>Joda Stopwatch</name>
 	<description>A simple Stopwatch object for the Joda-Time library</description>
