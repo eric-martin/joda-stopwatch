@@ -19,7 +19,7 @@ Add it as a maven dependency:
 <dependency>
   <groupId>com.triptheone</groupId>
   <artifactId>joda-stopwatch</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
 
