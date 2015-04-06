@@ -2,7 +2,7 @@
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.triptheone/joda-stopwatch.svg)](http://mvnrepository.com/artifact/com.triptheone/joda-stopwatch)
 [![Build Status](https://travis-ci.org/eric-martin/joda-stopwatch.png)](https://travis-ci.org/eric-martin/joda-stopwatch)
-[![Coverage Status](https://coveralls.io/repos/eric-martin/joda-stopwatch/badge.svg)](https://coveralls.io/r/eric-martin/joda-stopwatch)
+[![Coverage Status](https://coveralls.io/repos/eric-martin/joda-stopwatch/badge.svg?branch=master)](https://coveralls.io/r/eric-martin/joda-stopwatch?branch=master)
 
 A simple Stopwatch object for the Joda-Time library
 
