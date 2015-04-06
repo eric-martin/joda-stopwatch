@@ -12,7 +12,7 @@ Add it as a maven dependency:
 <dependency>
   <groupId>com.triptheone</groupId>
   <artifactId>joda-stopwatch</artifactId>
-  <version>1.0.1</version>
+  <version>INSERT_LATEST_MAVEN_CENTRAL_VERSION</version>
 </dependency>
 ```
 
