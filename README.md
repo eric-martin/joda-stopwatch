@@ -1,16 +1,9 @@
 # joda-stopwatch
 
+[![Maven Central](https://img.shields.io/maven-central/v/com.triptheone/joda-stopwatch.svg)](http://mvnrepository.com/artifact/com.triptheone/joda-stopwatch)
 [![Build Status](https://travis-ci.org/eric-martin/joda-stopwatch.png)](https://travis-ci.org/eric-martin/joda-stopwatch)
 
 A simple Stopwatch object for the Joda-Time library
-
-## Usage
-
-```java
-Stopwatch stopwatch = Stopwatch.start();
-...
-Duration elapsedTime = stopwatch.getElapsedTime();
-```
 
 ## Installation
 
@@ -21,6 +14,14 @@ Add it as a maven dependency:
   <artifactId>joda-stopwatch</artifactId>
   <version>1.0.1</version>
 </dependency>
+```
+
+## Usage
+
+```java
+Stopwatch stopwatch = Stopwatch.start();
+...
+Duration elapsedTime = stopwatch.getElapsedTime();
 ```
 
 ## License
